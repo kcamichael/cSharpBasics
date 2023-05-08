@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.exe
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.deps.json
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\bin\Debug\net6.0\Ternaries.pdb
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\refint\Ternaries.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.pdb
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\Ternaries.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\Ternaries\obj\Debug\net6.0\ref\Ternaries.dll
