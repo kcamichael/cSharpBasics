@@ -6,7 +6,7 @@ string response = System.Console.ReadLine();
 int age = int.Parse(response);
 
 // 1           // 2         // 3               // 4
-string output = age >= 18 ? "You can vote!" : "You're too young to vote.";
+string output = age >= 21 ? "You can drink alcohol!" : "You're too young to drink alcohol.";
 
 // 1 - Variable to hold returned value
 // 2 - Boolean expression to be evaluated
