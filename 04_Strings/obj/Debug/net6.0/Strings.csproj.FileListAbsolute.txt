@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\bin\Debug\net6.0\Strings.exe
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\bin\Debug\net6.0\Strings.deps.json
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\bin\Debug\net6.0\Strings.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\bin\Debug\net6.0\Strings.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\bin\Debug\net6.0\Strings.pdb
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\refint\Strings.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.pdb
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\Strings.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\04_Strings\obj\Debug\net6.0\ref\Strings.dll
