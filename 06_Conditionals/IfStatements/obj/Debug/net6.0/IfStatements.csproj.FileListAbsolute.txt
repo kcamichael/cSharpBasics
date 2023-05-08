@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.exe
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.deps.json
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\bin\Debug\net6.0\IfStatements.pdb
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\refint\IfStatements.dll
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.pdb
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\IfStatements.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\06_Conditionals\IfStatements\obj\Debug\net6.0\ref\IfStatements.dll
