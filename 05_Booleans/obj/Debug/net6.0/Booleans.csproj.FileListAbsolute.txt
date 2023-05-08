@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.exe
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.deps.json
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.runtimeconfig.json
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.dll
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\bin\Debug\net6.0\Booleans.pdb
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.dll
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\refint\Booleans.dll
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.pdb
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\Booleans.genruntimeconfig.cache
+C:\ElevenFiftyProjects\codingFoundations\cSharpBasics\05_Booleans\obj\Debug\net6.0\ref\Booleans.dll
