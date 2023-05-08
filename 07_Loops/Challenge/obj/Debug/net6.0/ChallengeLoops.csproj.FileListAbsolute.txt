@@ -1,0 +1,5 @@
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\07_Loops\Challenge\obj\Debug\net6.0\ChallengeLoops.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\07_Loops\Challenge\obj\Debug\net6.0\ChallengeLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\07_Loops\Challenge\obj\Debug\net6.0\ChallengeLoops.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\07_Loops\Challenge\obj\Debug\net6.0\ChallengeLoops.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\csharpBasics\07_Loops\Challenge\obj\Debug\net6.0\ChallengeLoops.csproj.CoreCompileInputs.cache
